@@ -1,0 +1,134 @@
+
+for data in all_data:
+    dif = data.data_start - data.data_stop
+    data.data_stop = data.data_stop.strftime("%d-%m-%Y %H:%M")
+    data.data_start = data.data_start.strftime("%d-%m-%Y %H:%M")
+    print(Fore.RED)
+    print("AddEventsPage")
+    print(data.data_stop)
+    print(data.data_start)
+    print("A diferença é de : ")
+    print(dif)
+    print(Style.RESET_ALL)
+
+<script type="text/javascript">
+  $(document).on('click', 'img.imgdel', function deleteRow() {
+    var warning = 'Realmente deseja remover essa linha?';
+    if (confirm(warning)) {
+      // Do something
+      $(this).closest('tr').remove();
+      console.log('Linha removida.');
+    }else {
+      // Do something else
+      console.log('Remocao cancelada.');
+      return false;
+    }
+  });
+  function InsertNewRow() {
+    // body...
+    var table = document.getElementById("myTable");
+    var inputPCH =$("#inputPCH").val();
+    var inputUG =$("#inputUG").val();
+    var inputDataIn =$("#inputDataIn").val();
+    var inputDataOut =$("#inputDataOut").val();
+    var inputFailDesc =$("#inputFailDesc").val();
+    var inputFail =$("#inputFail").val();
+    var tamanho = table.rows.length;
+    // Create an empty <tr> element and add it to the 1st position of the table:
+    var row = table.insertRow(tamanho);
+    // Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:
+    //var cell1 = row.insertCell(0);
+    //var cell2 = row.insertCell(1);
+    row.innerHTML = "<tr >"+
+      "<th class= 'ui-state-default'> <span class='ui-icon  ui-icon-triangle-2-n-s'></span>"+inputPCH+"</th>"+
+      "<td class= 'ui-state-default'> <span class='ui-icon  ui-icon-triangle-2-n-s'></span>"+inputUG+"</td>"+
+      "<td class= 'ui-state-default'> <span class='ui-icon  ui-icon-triangle-2-n-s'></span>"+inputFail+"</td>"+
+      "<td class= 'ui-state-default'> <span class='ui-icon  ui-icon-triangle-2-n-s'></span>"+inputDataIn+"</td>"+
+      "<td class= 'ui-state-default'> <span class='ui-icon  ui-icon-triangle-2-n-s'></span>"+inputDataOut+"</td>"+
+      "<td class= 'fail ui-state-default'> <span class='ui-icon  ui-icon-triangle-2-n-s'></span>"+inputFailDesc+"</td>"+
+      "<td class= 'faildesc ui-state-default'> <span class='ui-icon  ui-icon-triangle-2-n-s'></span>"+"Teste"+"</td>"+
+      "<td class='ui-state-default'> <span class='ui-icon  ui-icon-triangle-2-n-s'></span>"+"{{ user.get_username }}"+"</td>"+
+      "<div class='th_op'>"+
+        "<th>"+
+          "<span><img class='imgedt img' src={% static 'images/edit16px.png'%}> </span>"+
+          "<span><img class='imgdel img' src={% static 'images/del16px.png'%}> </span>"+
+        "</th>"+
+      "</div>"+
+    "</tr>";
+    // Add some text to the new cells:
+    //cell1.innerHTML = "NEW CELL1";
+    //cell2.innerHTML = "NEW CELL2"; 
+  }
+
+//   onload = function() {
+//     if (!document.getElementsByTagName || !document.createTextNode) return;
+//     var rows = document.getElementById('myTable').getElementsByTagName('tbody')[0].getElementsByTagName('tr');
+//     for (i = 0; i < rows.length; i++) {
+//         rows[i].onclick = function() {
+//             alert(this.rowIndex + 1);
+//         }
+//     }
+// }
+</script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.4.0/chart.min.js" integrity="sha512-JxJpoAvmomz0MbIgw9mx+zZJLEvC6hIgQ6NcpFhVmbK1Uh5WynnRTTSGv3BTZMNBpPbocmdSJfldgV5lVnPtIw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+var ctx = document.getElementById('myPiChart01').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'pie',
+    data: {
+        labels: ['IF', 'IP', 'DPG', 'MT'],
+        datasets: [{
+            label: '# of Votes',
+            data: [60,30,20,45],
+            backgroundColor: [
+                'rgba(255,0,0, 0.6)',
+                'rgba(54, 162, 235, 0.6)',
+                'rgba(34,139,34, 0.6)',
+                'rgba(255, 159, 64, 0.6)'
+            ],
+            borderColor: [
+                'rgba(255,0,0, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(34,139,34, 1)',
+                'rgba(255, 159, 64, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+       
+    }
+});
+</script>
+<script>
+var ctx = document.getElementById('myPiChart02').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'pie',
+    data: {
+        labels: ['IF', 'IP', 'DPG', 'MT'],
+        datasets: [{
+            label: '# of Votes',
+            data: [30,40,11,22 ],
+            backgroundColor: [
+                'rgba(255,0,0, 0.6)',
+                'rgba(54, 162, 235, 0.6)',
+                'rgba(34,139,34, 0.6)',
+                'rgba(255, 159, 64, 0.6)'
+            ],
+            borderColor: [
+                'rgba(255,0,0, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(34,139,34, 1)',
+                'rgba(255, 159, 64, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+       
+    }
+});
+</script>

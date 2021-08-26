@@ -1,0 +1,230 @@
+{% block content %}
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}" >
+<link rel="stylesheet" href="{% static 'css/jquery-ui.css' %}">
+<script src="{% static 'js/jquery-3.5.1.slim.min.js' %}"></script>
+<script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="text/javascript" src="{% static 'js/remove-table-line.js' %}"></script>   
+<script type="text/javascript" src="{% static 'js/turn_end.js' %}"></script>   
+<link href="{% static 'css/addevents.css'%}" rel="stylesheet"></link>
+<div id="divtopbar">
+  <nav id="navtopbar">
+    <ul>
+      <li><a href="{% url 'reports:graphreport' %}" title=""><span><img class="imgedt img" src="{% static 'images/reports32.png'%}"> </span></a></li>
+       <li ><a  href="{% url 'account_logout' %}">Sair - {{ user.username }} </a></li>
+    </ul>
+  </nav>
+</div>
+
+<div id="divtable">
+  <div class="addimg">
+     <a data-toggle="modal" data-target=".bs-example-modal-lg-01"><img src="{% static 'images/add64px.png'%}"></a>
+  </div>
+ 
+</div>
+    <table  class="tables tablesorter" id="myTable">
+      <thead >
+        <tr class="">
+          <th class="pch">PCH</th>
+          <th class="ug">UG</th>
+          <th class="kpi">Interrupção</th>
+          <th class="datain">Hora da Parada</th>
+          <th class="dataout">Hora da Partida</th>
+          <th class="datadif">Tempo parada</th>
+          <th class="fail">Descrição</th>
+          <th class="faildesc">Justificativa</th>
+          <th class="op">Operador</th>
+        </tr>
+      </thead>
+      <tbody class="sortable">
+        {% for tmp_event in all_data %}
+        <tr >
+          <th class="pch ui-state-default"> <span class="ui-icon  ui-icon-triangle-2-n-s"></span>{{tmp_event.pch.sigla}}</th>
+          <td class="ug ui-state-default"> <span class="ui-icon  ui-icon-triangle-2-n-s"></span>UG0{{tmp_event.ug}}</td>
+          <td class="kpi ui-state-default"> <span class="ui-icon  ui-icon-triangle-2-n-s"></span>{{tmp_event.interruption}}</td>
+          <td class="datain ui-state-default"> <span class="ui-icon  ui-icon-triangle-2-n-s"></span>{{tmp_event.data_stop}}</td>
+          <td class="dataout ui-state-default"> <span class="ui-icon  ui-icon-triangle-2-n-s"></span>{{tmp_event.data_start}}</td>
+          <td class="datadif ui-state-default"> <span class="ui-icon  ui-icon-triangle-2-n-s"></span>{{tmp_event.difference}}</td></td>
+          <td class="fail ui-state-default"> <span class="ui-icon  ui-icon-triangle-2-n-s"></span>{{tmp_event.description}}</td>
+          <td class="faildesc ui-state-default"> <span class="ui-icon  ui-icon-triangle-2-n-s"></span>{{tmp_event.explain}}</td>
+          <td class="op ui-state-default"> <span class="ui-icon  ui-icon-triangle-2-n-s"></span>{{tmp_event.user.username}}</td>
+          <div class="div_icon">
+            <th class="imgicon" >
+      		    <span><img class="imgedt img" src="{% static 'images/edit16px.png'%}"> </span>
+      		    <span><img class="imgdel img" src="{% static 'images/del16px.png'%}"> </span>
+            </th>
+          </div>
+    	  </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <button type="button" class="btn btn-primary finalize" data-dismiss="modal">Finalizar turno</button>
+  </div>
+    <div>
+      <form action="/reports/save_tmp" method="get" accept-charset="utf-8" id="save_form">
+      {% csrf_token %}
+      {{ form.as_p }}
+        <!--https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms!-->
+        <div class="modal fade bs-example-modal-lg-01" tabindex="-1" role="dialog" aria-hidden="true">
+          <div class="modal-dialog modal-lg ">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" >Inserir ocorrência</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body form-group">
+                <div class="form-outline form-group">  
+                  <div class="form-outline form-group">
+                    <div class='col-md-6'>
+                      <label class="form-label" for="input1">PCH</label>
+                      <input  style='width:60px' list="pchs" type="text" id="inputPCH" class="form-control" name="pch_name" autocomplete="off" required />
+                      <datalist id="pchs">
+                        <option value="SR">
+                        <option value="NF">
+                        <option value="RF">
+                        <option value="SM">
+                        <option value="RB">
+                      </datalist>
+                    </div>
+                  </div>
+                  <div class="form-outline form-group">
+                    <div class='col-md-2'>
+                      <label class="form-label" for="input1">UG</label>
+                      <input  list="ugs" type="text" id="inputUG" class="form-control" name="ug" autocomplete="off" required="required"/>
+                      <datalist id="ugs">
+                        <option value="UG01">
+                        <option value="UG02">
+                      </datalist>
+                    </div>
+                  </div>
+                  <div class="form-outline form-group">
+                    <div class='col-md-4'>
+                      <label class="form-label" for="input1">Motivo da Parada </label>
+                      <input style='width:60px' list="kpi" type="text" id="inputFail" class="form-control" name="cause" autocomplete="off" required="required"/>
+                      <datalist id="kpi">
+                        <option value="IF">
+                        <option value="MT">
+                        <option value="IP">
+                        <option value="DPG">
+                      </datalist>
+                    </div>  
+                  </div>
+                </div> 
+                  <div class="form-outline form-group">
+                    <div class='col-md-6'>
+                      <label class="form-la</div>bel" for="input1">Hora Parada</label>
+                      <div class="form-group">
+                          <div class='input-group date' id='datetimepicker6'> 
+                            <input type='text' class="form-control data_start" name="data_stop" autocomplete="off" required="required"/> 
+                            <span class="input-group-addon"> 
+                              <span class="glyphicon glyphicon-calendar">
+                            
+                              </span> 
+                            </span> 
+                          </div>
+                      </div>
+                    </div> 
+                    <div class='col-md-6'>
+                      <label class="form-label" for="input1">Hora Partida</label>
+                      <div class="form-group">
+                          <div class='input-group date' id='datetimepicker7'> 
+                            <input type='text' class="form-control data_start" name="data_start" autocomplete="off" required="required"/> 
+                            <span class="input-group-addon"> 
+                              <span class="glyphicon glyphicon-calendar">
+                            
+                              </span> 
+                            </span> 
+                          </div>
+                      </div>
+
+                    </div>
+                  </div> 
+
+                  <div class="form-outline form-group">
+                    <div class='col-md-12'>
+                      <label class="form-label" for="input1">Justificativa</label>
+                      <input pattern="[a-zA-Z0-9]+"  style='width:500px' list="just" type="text" id="inputFailDesc" class="form-control" name="justfi" autocomplete="off" />
+                      <datalist id="just">
+                        <option value="Falha na LT 34,5 Kv">       
+                        <option value="Falha na LT 138 Kv">      
+                        <option value="Falha na LT 13 Kv">
+                        <option value="Falha na SE">     
+                        <option value="Falha na SE Usina"> 
+                        <option value="Rejeição de Carga para Limpeza de Grade">   
+                        <option value="DPG (Controle de nível)">     
+                        <option value="Manutenção na LT 34,5 Kv">        
+                        <option value="Manutenção na LT 138 Kv"> 
+                        <option value="Manutenção na LT 13 Kv">      
+                        <option value="Manutenção na SE">
+                        <option value="Manutenção na Unidade">
+                        <option value="Erro no supervisório">        
+                        <option value="Trip por temperatura ou pressão">
+                      </datalist>
+                    </div>
+                    <div class='col-md-12'>
+                      <label class="form-label" for="input1">Complemento</label>
+                      <input pattern="[a-zA-Z0-9]+"  style='width:600px' list="just" type="text" id="complement" class="form-control" name="complement"  autocomplete="off"/>
+                    </div>
+                  </div>
+                </div> <!-- Fecha a div Modal Body !-->
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal"> Cancelar</button>
+                <button type="button submit" class="btn btn-primary" data-dismiss="modal" onclick="form_submit()" >Salvar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  <!--<script>
+    $( function() {
+      $( ".sortable" ).sortable();
+      $( ".sortable" ).disableSelection();
+    });
+  </script>!-->
+
+  <script type="text/javascript">
+    function form_submit(form) {
+      document.getElementById("save_form").submit();
+     }    
+  </script>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="{% static 'css/bootstrap-datetimepicker.min.css' %}" />
+  <script src="{% static 'js/moment.min.js' %}"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="{% static 'js/bootstrap-datetimepicker.min.js' %}"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+  $(function() {
+    $('#datetimepicker6').datetimepicker({
+      format : 'YYYY-MM-DD HH:mm',
+      useCurrent: false
+    });
+    $('#datetimepicker7').datetimepicker({
+      format : 'YYYY-MM-DD HH:mm',
+      useCurrent: true //Important! See issue #1075
+    });
+    $("#datetimepicker6").on("dp.change", function(e) {
+      $('#datetimepicker7').data("DateTimePicker").minDate(e.date);
+    });
+    $("#datetimepicker7").on("dp.change", function(e) {   
+
+    });
+  });
+});
+$(".alert").fadeTo(50000, 5000).slideUp(5000, function(){
+    $(".alert").slideUp(5000);
+});
+</script>
+{% endblock %}
+

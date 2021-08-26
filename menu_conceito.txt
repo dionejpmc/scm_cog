@@ -1,0 +1,34 @@
+Tipos de Paradas
+	
+		IP - Interrupção Programada
+		IF - Interrupção Forçada
+		DPG - Parada por nível mínimo
+		MT - Parada para Manutenção
+
+Motivos 
+
+		Falha na LT 34,5 Kv				
+		Falha na LT 138 Kv			
+		Falha na LT 13 Kv	
+		Falha na SE			
+		Falha na SE Usina	
+		Rejeição de Carga para Limpeza de Grade				
+		Manutenção na LT 34,5 Kv				
+		Manutenção na LT 138 Kv	
+		Manutenção na LT 13 Kv			
+		Manutenção na SE
+		Manutenção na Unidade
+		Erro no supervisório				
+		Trip por temperatura ou pressão			
+
+
+Tela Principal
+				Menu
+						Ocorrencias
+						 
+						Gráficos
+
+				Meus dados
+						Mudar senha
+						Estatísticas
+

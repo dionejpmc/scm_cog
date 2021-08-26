@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<style type="text/css">
+</style>
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %} 
+	<div class="container">
+	  <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+	    <div class="col">
+	      <div class="p-1 "><a href="{% url 'reports:addevents' %}"> <img src="{% static 'images/form.png' %}"></a></div>
+	    </div>
+	    <div class="col">
+	      <div class="p-1 "><a href="{% url 'personal:changepassword' %}"> <img src="{% static 'images/profile.png' %}"></a></div>
+	    </div>
+	    <div class="col">
+	      <div class="p-1 "><a href=""> <img src="{% static 'images/report.png' %}"></a></div>
+	    </div>
+	    <div class="col">
+	      <div class="p-1 "><a href=""> <img src="{% static 'images/maintenance.png' %}"></a></div>
+	    </div>
+	    <div class="col">
+	      <div class="p-1 "><a href=""> <img src="{% static 'images/analytics.png' %}"></a></div>
+	    </div>
+
+	  </div>
+	</div>
+{% endblock %}
+
+
+
+</body>
+</html>

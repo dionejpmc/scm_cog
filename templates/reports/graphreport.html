@@ -1,0 +1,306 @@
+{% block content %}
+{% load static %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.0/dist/chart.min.js"></script>
+{% for message in messages %}
+  <div class="alert {{ message.tags }} alert-dismissible "  role="alert">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    {{ message }}
+  </div>
+{% endfor %}
+<div id="range">
+	<form action="/reports/graphreport" method="get" accept-charset="utf-8">
+		<div class="form-outline form-group">
+	        <div class='col-md-2'>
+	            <label class="form-label" for="input1">Ano de referência</label>
+	            <div class="form-group">
+	                <div class='input-group date' id='datetimepicker6'> 
+	                    <input type='text' class="form-control data_start" name="data_inicial" autocomplete="off" required="required"/> 
+	                        <span class="input-group-addon"> 
+	                           	<span class="glyphicon glyphicon-calendar">
+	                           	</span> 
+	                        </span> 
+	                </div>
+	            </div>
+	        </div> 
+	        <!--<div class='col-md-2'>
+	            <label class="form-label" for="input1">Data Final</label>
+	            <div class="form-group">
+	                <div class='input-group date' id='datetimepicker7'> 
+	                    <input type='text' class="form-control data_start" name="data_final" autocomplete="off" required="required"/> 
+	                        <span class="input-group-addon"> 
+	                            <span class="glyphicon glyphicon-calendar">
+	                            </span> 
+	                        </span> 
+	                </div>
+	            </div>
+	        </div>!-->
+	        <div class='col-md-2'>
+	            <label class="form-label" for="input1">PCH</label>
+	            <div class="form-group">
+	                <div class='input-group'> 
+	                    <input type='text' list="just" class="form-control combo_box" name="sigla" autocomplete="off" required="required"/> 
+	                        <span class="input-group-addon"> 
+	                            <span class="glyphicon glyphicon-chevron-down">
+	                            </span> 
+	                        </span> 
+	                        <datalist id="just">
+		                        <option value="NF">       
+		                        <option value="RF">      
+		                        <option value="SR">
+		                        <option value="SM">     
+		                    </datalist>
+	                </div>
+	            </div>
+	        </div>
+	         <div class='col-md-2'>
+	         	<div class="form-group">
+	         		<button type="" class="btn">Search</button>
+	         	</div>
+	         </div>
+	         	
+	         </div>
+	    </div>
+    </form>
+</div>
+<div style="width: 800px; height: 800px;">
+	<div class="form-outline form-group">
+		<div class='col-md-6'>
+			<canvas id="myCharUG01" width="300" height="300"></canvas>
+			<script>
+				const data2 = {
+					  	labels: ['IF', 'IP', 'MT', 'DPG'],
+					  	datasets: [{
+					    	label: '{{datas.pch_name}} - UG01',
+					    	data: [ {{datas.kpi_if01}}, {{datas.kpi_ip01}}, {{datas.kpi_mt01}}, {{datas.kpi_dpg01}} ],
+					    	borderWidth: 1,
+					    	backgroundColor: ['#CB4335', '#1F618D', '#F1C40F', '#27AE60'],
+					  	}]
+				};	
+				const config2 = {
+				    type: 'pie',
+				    data: data2,
+				    options: {
+				        plugins: {
+				            legend: {
+				                onHover: handleHover,
+				                onLeave: handleLeave
+				            },
+				            title: {
+				                display: true,
+				                text: '{{datas.pch_name}} - UG01'
+				            },
+				        }
+				    }
+				};
+				var myChart2 = new Chart(
+			    		document.getElementById('myCharUG01'),
+			    		config2
+			  		);
+				function handleHover(evt, item, legend) {
+				  	legend.chart.data.datasets[0].backgroundColor.forEach((color, index, colors) => {
+				    	colors[index] = index === item.index || color.length === 9 ? color : color + '4D';
+				  	});
+				  	legend.chart.update();
+				}
+				function handleLeave(evt, item, legend) {
+				  	legend.chart.data.datasets[0].backgroundColor.forEach((color, index, colors) => {
+				    	colors[index] = color.length === 9 ? color.slice(0, -2) : color;
+				  	});
+				  	legend.chart.update();
+				}
+			</script>
+		</div>
+		<div class='col-md-6'>
+			<canvas id="myCharUG02" width="300" height="300"></canvas>
+			<script>
+				const data3 = {
+					  labels: ['IF', 'IP', 'MT', 'DPG'],
+					  datasets: [{
+					    label: 'UG02',
+					    data: [{{datas.kpi_if02}},{{datas.kpi_ip02}},{{datas.kpi_mt02}}, {{datas.kpi_dpg02}}],
+					    borderWidth: 1,
+					    backgroundColor: ['#CB4335', '#1F618D', '#F1C40F', '#27AE60'],
+					  }]
+				};	
+				const config3 = {
+				    type: 'pie',
+				    data: data3,
+				    options: {
+				        plugins: {
+				            legend: {
+				                onHover: handleHover,
+				                onLeave: handleLeave
+				            },
+				            title: {
+				                display: true,
+				                text: '{{datas.pch_name}} - UG02'
+				            }
+				        }
+				    }
+				};
+				var myChart3 = new Chart(
+			    		document.getElementById('myCharUG02'),
+			    		config3
+			  		);
+				function handleHover(evt, item, legend) {
+				  	legend.chart.data.datasets[0].backgroundColor.forEach((color, index, colors) => {
+				    	colors[index] = index === item.index || color.length === 9 ? color : color + '4D';
+				  	});
+				  	legend.chart.update();
+				}
+				function handleLeave(evt, item, legend) {
+				  	legend.chart.data.datasets[0].backgroundColor.forEach((color, index, colors) => {
+				    	colors[index] = color.length === 9 ? color.slice(0, -2) : color;
+				  	});
+				  	legend.chart.update();
+				}
+			</script>
+		</div>
+	</div>
+	<div style="width: 1200px; height: 400px;">
+		<canvas id="myChartLine" width="1200" height="400"></canvas>
+		<script>
+			const labels = [
+			  'Janeiro',
+			  'Fevereiro',
+			  'Março',
+			  'Abril',
+			  'Maio',
+			  'Junho',
+			  'julho',
+			  'Agosto',
+			  'Setembro',
+			  'Outubro',
+			  'Novembro',
+			  'Dezembro',
+			];
+			const data = {
+			  labels: labels,
+			  datasets: [{
+			    label: 'IF',
+			    backgroundColor: 'rgb(203, 67, 53, 0.6)',
+			    borderColor: 'rgb(203, 67, 53, 0.6)',
+			    data: [{{datas.somadata01_if}}, {{datas.somadata02_if}}, {{datas.somadata03_if}}, {{datas.somadata04_if}}, {{datas.somadata05_if}}, {{datas.somadata06_if}}, 
+			    {{datas.somadata07_if}}, {{datas.somadata08_if}},{{datas.somadata09_if}},{{datas.somadata10_if}}, {{datas.somadata11_if}}, {{datas.somadata12_if}}],
+			  },
+
+			  {
+			    label: 'MT',
+			    backgroundColor: 'rgb(31, 97, 141, 0.6)',
+			    borderColor: 'rgb(31, 97, 141, 0.6)',
+			    data: [{{datas.somadata01_mt}}, {{datas.somadata02_mt}}, {{datas.somadata03_mt}}, {{datas.somadata04_mt}}, {{datas.somadata05_mt}}, {{datas.somadata06_mt}}, 
+			    {{datas.somadata07_mt}}, {{datas.somadata08_mt}},{{datas.somadata09_mt}},{{datas.somadata10_mt}}, {{datas.somadata11_mt}}, {{datas.somadata12_mt}}],
+			  },
+
+			  {
+			    label: 'IP',
+			    backgroundColor: 'rgb(241, 196, 15, 0.6)',
+			    borderColor: 'rgb(241, 196, 15, 0.6)',
+			    data: [{{datas.somadata01_ip}}, {{datas.somadata02_ip}}, {{datas.somadata03_ip}}, {{datas.somadata04_ip}}, {{datas.somadata05_ip}}, {{datas.somadata06_ip}}, 
+			    {{datas.somadata07_ip}}, {{datas.somadata08_ip}},{{datas.somadata09_ip}},{{datas.somadata10_ip}}, {{datas.somadata11_ip}}, {{datas.somadata12_ip}}],
+			  },
+
+			  {
+			    label: 'DPG',
+			    backgroundColor: 'rgb(39, 174, 96, 0.6)',
+			    borderColor: 'rgb(39, 174, 96, 0.5)',
+			    data: [{{datas.somadata01_dpg}}, {{datas.somadata02_dpg}}, {{datas.somadata03_dpg}}, {{datas.somadata04_dpg}}, {{datas.somadata05_dpg}}, {{datas.somadata06_dpg}}, 
+			    {{datas.somadata07_dpg}}, {{datas.somadata08_dpg}},{{datas.somadata09_dpg}},{{datas.somadata10_dpg}}, {{datas.somadata11_dpg}}, {{datas.somadata12_dpg}}],
+			  }
+
+			  ]
+			};
+
+			const config = {
+			    type: 'line',
+			    data,
+			    options: {
+			  		fill: true,
+		  			tension: 0.5,
+		  			 responsive: true,
+					 scales: {
+					    x: {
+					        display: true,
+					        title: {
+					          display: true,
+					          text: 'Meses',
+					          color: '#191',
+					          font: {
+					            family: 'Comic Sans MS',
+					            size: 20,
+					            weight: 'bold',
+					            lineHeight: 1.2,
+					          },
+					          padding: {top: 20, left: 0, right: 0, bottom: 0}
+					        }
+					      },
+					      y: {
+					        display: true,
+					        title: {
+					          display: true,
+					          text: 'Horas indisponibilidade',
+					          color: '#191',
+					          font: {
+					            family: 'Times',
+					            size: 20,
+					            style: 'normal',
+					            lineHeight: 1.2
+					          },
+					          padding: {top: 30, left: 0, right: 0, bottom: 0}
+					        }
+					      }
+					    }
+		  		}
+			};
+
+			var myChart = new Chart(
+	    		document.getElementById('myChartLine'),
+	    		config
+	  		);
+		</script>
+	</div>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	  <!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="{% static 'css/bootstrap-datetimepicker.min.css' %}" />
+	<script src="{% static 'js/moment.min.js' %}"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script src="{% static 'js/bootstrap-datetimepicker.min.js' %}"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+		  	$(function() {
+			    $('#datetimepicker6').datetimepicker({
+			      	format : 'YYYY-MM-DD HH:mm',
+			      	useCurrent: false
+			    });
+			    $('#datetimepicker7').datetimepicker({
+				    format : 'YYYY-MM-DD HH:mm',
+				    useCurrent: true //Important! See issue #1075
+			    });
+			    $("#datetimepicker6").on("dp.change", function(e) {
+			      	$('#datetimepicker7').data("DateTimePicker").minDate(e.date);
+			    });
+			    $("#datetimepicker7").on("dp.change", function(e) {   
+
+			    });
+		  	});
+		});
+		$(".alert").fadeTo(50000, 5000).slideUp(5000, function(){
+		    $(".alert").slideUp(5000);
+		});
+	</script>
+</div>
+<style type="text/css" media="screen">
+	#range{
+		margin-right: 40%;
+		position: relative;
+	}
+	button{
+		position: relative;
+		height: 80px;
+	}
+</style>
+{% endblock %}
