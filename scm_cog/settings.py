@@ -56,13 +56,9 @@ INSTALLED_APPS = [
     'allauth.account',
     #'pages.apps.PagesConfig',
     #local
-    'access.apps.AccessConfig',
     'scm_cog.apps.ScmCogConfig',
     'static',
-    'reports',
-    'personal',
     'users.apps.UsersConfig',
-
 ]
 
 MIDDLEWARE = [
@@ -131,7 +127,7 @@ AUTHENTICATION_BACKENDS = [
     "django.contrib.auth.backends.ModelBackend",
     "allauth.account.auth_backends.AuthenticationBackend",
 ]
-"""
+
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -139,7 +135,7 @@ LOGGING = {
         'file': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': BASE_DIR / 'log.txt',
+            'filename': BASE_DIR / 'log.log',
         },
     },
     'loggers': {
@@ -150,7 +146,7 @@ LOGGING = {
         },
     },
 }
-"""
+
 # Internationalization
 # https://docs.djangoproject.com/en/dev/topics/i18n/
 

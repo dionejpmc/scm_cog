@@ -13,12 +13,19 @@
 <div id="divtopbar">
   <nav id="navtopbar">
     <ul>
-      <li><a href="{% url 'reports:graphreport' %}" title=""><span><img class="imgedt img" src="{% static 'images/reports32.png'%}"> </span></a></li>
+      <li><a href="{% url 'graphreport' %}" title=""><span><img class="imgedt img" src="{% static 'images/reports32.png'%}"> </span></a></li>
        <li ><a  href="{% url 'account_logout' %}">Sair - {{ user.username }} </a></li>
     </ul>
   </nav>
 </div>
-
+{% for message in messages %}
+  <div class="alert {{ message.tags }} alert-dismissible "  role="alert">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    {{ message }}
+  </div>
+{% endfor %}
 <div id="divtable">
   <div class="addimg">
      <a data-toggle="modal" data-target=".bs-example-modal-lg-01"><img src="{% static 'images/add64px.png'%}"></a>

@@ -15,18 +15,24 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from django.conf.urls import *
+from . import views
+
+
+app_name = "scm_cog"
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("accounts/", include("allauth.urls")),
-    path("", include("access.urls", namespace="access")),
-    path("", include("reports.urls", namespace="addevents")),
-    path("", include("reports.urls", namespace="save_tpm")),
-    path("", include("reports.urls", namespace="finalizework")),
-    path("", include("reports.urls", namespace="removeline")),
-    path("", include(("personal.urls", 'personal'), namespace="changepassword")),
-    path("", include("reports.urls", namespace="graphreport")),
-    path("", include("reports.urls", namespace="graphreportanual")),
-
+    path("menu/", views.MenuPageView, name="menu"),
+    path("", views.HomePageView, name="home"),
+    path("personal/changepassword/", views.ChangePasswordView, name="changepassword"),
+    path("reports/", views.AddEventsPage, name="addevents"),
+    path("reports/save_tmp", views.SaveEvents, name="save_tmp"),
+    path("reports/finalizework", views.FinaliseWorkShift, name="finalizework"),
+    path("reports/removeline", views.RemoveLine, name="removeline"),
+    path("reports/graphreport", views.GraphReport, name="graphreport"),
+    path("reports/graphreportanual", views.GraphReportAnual, name="graphreportanual"),
+    
 ]
 
