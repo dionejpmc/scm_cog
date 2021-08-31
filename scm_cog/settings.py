@@ -148,7 +148,9 @@ LANGUAGE_CODE = 'pt-br'
 
 USE_L10N = False
 USE_TZ = False
-
+# Simplified static file serving.
+# https://warehouse.python.org/project/whitenoise/
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/dev/howto/static-files/
 
