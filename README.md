@@ -2,6 +2,7 @@
 KPI control system 
 KPI control system in hydroelectric plants 
 
+Each operator has a expedient, at the end of that expedient he feeds the database with the occurrences of his turn, if it is necessary to end the turn. 
 
 Key Performance Indicator (KPI) Definition
 
