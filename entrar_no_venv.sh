@@ -1,0 +1,1 @@
+source scm/bin/activate
