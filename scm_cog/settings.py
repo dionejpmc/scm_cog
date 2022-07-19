@@ -27,6 +27,7 @@ SECRET_KEY = 'django-insecure-h(oe%4y+)$xy5q7h=hjoce9g5z5tiy@gwr9oc2zd^$ic8dqk0z
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+handler404 = "smc_cog.views.Handler_not_found"
 
 ALLOWED_HOSTS = ['*']
 
@@ -37,7 +38,6 @@ MESSAGE_TAGS = {
     messages.WARNING: 'alert-warning',
     messages.ERROR: 'alert-danger',
 }
-
 
 # Application definition
 
@@ -133,15 +133,36 @@ LOGGING = {
     'disable_existing_loggers': False,
     'handlers': {
         'file': {
+            'level': 'WARNING',
+            'class': 'logging.FileHandler',
+            'filename': BASE_DIR / 'log.WARNING',
+        },
+        'file': {
+            'level': 'ERROR',
+            'class': 'logging.FileHandler',
+            'filename': BASE_DIR / 'log.ERROR',
+        },
+        'file': {
+            'level': 'CRITICAL',
+            'class': 'logging.FileHandler',
+            'filename': BASE_DIR / 'log.CRITICAL',
+        },
+        'file': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': BASE_DIR / 'log.log',
+            'filename': BASE_DIR / 'log.DEBUG',
+        },
+        'file': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'filename': BASE_DIR / 'log.INFO',
         },
     },
     'loggers': {
         'django': {
             'handlers': ['file'],
-            'level': 'DEBUG',
+            #'handlers': ['console'],
+           # 'level': 'DEBUG',
             'propagate': True,
         },
     },
@@ -160,8 +181,8 @@ USE_TZ = False
 # https://docs.djangoproject.com/en/dev/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static/'), ]
-STATIC_ROOT  = os.path.join(BASE_DIR, 'staticfiles')
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static'), ]
+#STATIC_ROOT  = os.path.join(BASE_DIR, 'staticfiles')
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/dev/ref/settings/#default-auto-field

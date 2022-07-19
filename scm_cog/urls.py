@@ -36,3 +36,4 @@ urlpatterns = [
     
 ]
 
+handler404 = "scm_cog.views.Handler_not_found"

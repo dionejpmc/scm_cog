@@ -1,0 +1,28 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1614
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /accounts/logout/ HTTP/1.1" 200 1931
+"POST /accounts/logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2334
+"GET /accounts/login/ HTTP/1.1" 200 3001
+"POST /accounts/login/ HTTP/1.1" 302 0
+"GET /menu HTTP/1.1" 301 0
+"GET /menu/ HTTP/1.1" 200 2796
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/save_tmp?csrfmiddlewaretoken=3QzdjotgedbdVX3p8ui2CFGMg9VTYkyHzs0AL7L6qDqoqeaxOfr3P9sCjfG0zBu8&pch_name=SR&ug=UG02&cause=IP&data_stop=2022-07-18+03%3A02&data_start=2022-07-18+03%3A44&justfi=DPG+%28Controle+de+n%C3%ADvel%29&complement=DPG+%28Controle+de+n%C3%ADvel%29 HTTP/1.1" 302 0
+"GET /reports/ HTTP/1.1" 200 11423
+"GET /static/css/images/ui-icons_444444_256x240.png HTTP/1.1" 404 1873
+Not Found: /reports/27423423h412kj4l2jh314
+"GET /reports/27423423h412kj4l2jh314 HTTP/1.1" 404 3480
+"GET / HTTP/1.1" 200 1614
+Not Found: /%
+"GET /% HTTP/1.1" 404 3395
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.

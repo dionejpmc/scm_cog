@@ -9,10 +9,22 @@
     {{ message }}
   </div>
 {% endfor %}
-<div id="range">
+<style type="text/css">
+	#top_btn{
+		position:fixed;
+		width: 50px;
+		height: 30px;
+		right: 10px;
+		float: right;
+		opacity: 0.8;
+		font-family:  "Arial" , serif;
+	}
+</style>
+<button id="top_btn"><a href="{% url 'menu' %}">Menu</a></button>
+<div id="range" class="class='col-md-10'">
 	<form action="/reports/graphreport" method="get" accept-charset="utf-8">
 		<div class="form-outline form-group">
-	        <div class='col-md-2'>
+	        <div class='col-md-4'>
 	            <label class="form-label" for="input1">Ano de referência</label>
 	            <div class="form-group">
 	                <div class='input-group date' id='datetimepicker6'> 
@@ -36,7 +48,7 @@
 	                </div>
 	            </div>
 	        </div>!-->
-	        <div class='col-md-2'>
+	        <div class='col-md-4'>
 	            <label class="form-label" for="input1">PCH</label>
 	            <div class="form-group">
 	                <div class='input-group'> 
@@ -64,7 +76,9 @@
 	    </div>
     </form>
 </div>
-<div style="width: 800px; height: 800px;">
+
+
+<!--<div style="width: 800px; height: 800px;">
 	<div class="form-outline form-group">
 		<div class='col-md-6'>
 			<canvas id="myCharUG01" width="300" height="300"></canvas>
@@ -158,9 +172,9 @@
 				}
 			</script>
 		</div>
-	</div>
-	<div style="width: 1200px; height: 400px;">
-		<canvas id="myChartLine" width="1200" height="400"></canvas>
+	</div> -->
+	<div style="width: 95%; height: 30%;">
+		<canvas id="myChartBar" width="95%" height="30%"></canvas>
 		<script>
 			const labels = [
 			  'Janeiro',
@@ -180,32 +194,32 @@
 			  labels: labels,
 			  datasets: [{
 			    label: 'IF',
-			    backgroundColor: 'rgb(203, 67, 53, 0.6)',
-			    borderColor: 'rgb(203, 67, 53, 0.6)',
+			    backgroundColor: 'rgb(203, 67, 53,0.5)',
+			    borderColor: 'rgb(203, 67, 53)',
 			    data: [{{datas.somadata01_if}}, {{datas.somadata02_if}}, {{datas.somadata03_if}}, {{datas.somadata04_if}}, {{datas.somadata05_if}}, {{datas.somadata06_if}}, 
 			    {{datas.somadata07_if}}, {{datas.somadata08_if}},{{datas.somadata09_if}},{{datas.somadata10_if}}, {{datas.somadata11_if}}, {{datas.somadata12_if}}],
 			  },
 
 			  {
 			    label: 'MT',
-			    backgroundColor: 'rgb(31, 97, 141, 0.6)',
-			    borderColor: 'rgb(31, 97, 141, 0.6)',
+			    backgroundColor: 'rgb(31, 97, 141,0.5)',
+			    borderColor: 'rgb(31, 97, 141)',
 			    data: [{{datas.somadata01_mt}}, {{datas.somadata02_mt}}, {{datas.somadata03_mt}}, {{datas.somadata04_mt}}, {{datas.somadata05_mt}}, {{datas.somadata06_mt}}, 
 			    {{datas.somadata07_mt}}, {{datas.somadata08_mt}},{{datas.somadata09_mt}},{{datas.somadata10_mt}}, {{datas.somadata11_mt}}, {{datas.somadata12_mt}}],
 			  },
 
 			  {
 			    label: 'IP',
-			    backgroundColor: 'rgb(241, 196, 15, 0.6)',
-			    borderColor: 'rgb(241, 196, 15, 0.6)',
+			    backgroundColor: 'rgb(241, 196, 15,0.5)',
+			    borderColor: 'rgb(241, 196, 15)',
 			    data: [{{datas.somadata01_ip}}, {{datas.somadata02_ip}}, {{datas.somadata03_ip}}, {{datas.somadata04_ip}}, {{datas.somadata05_ip}}, {{datas.somadata06_ip}}, 
 			    {{datas.somadata07_ip}}, {{datas.somadata08_ip}},{{datas.somadata09_ip}},{{datas.somadata10_ip}}, {{datas.somadata11_ip}}, {{datas.somadata12_ip}}],
 			  },
 
 			  {
 			    label: 'DPG',
-			    backgroundColor: 'rgb(39, 174, 96, 0.6)',
-			    borderColor: 'rgb(39, 174, 96, 0.5)',
+			    backgroundColor: 'rgb(39, 174, 96,0.5)',
+			    borderColor: 'rgb(39, 174, 96)',
 			    data: [{{datas.somadata01_dpg}}, {{datas.somadata02_dpg}}, {{datas.somadata03_dpg}}, {{datas.somadata04_dpg}}, {{datas.somadata05_dpg}}, {{datas.somadata06_dpg}}, 
 			    {{datas.somadata07_dpg}}, {{datas.somadata08_dpg}},{{datas.somadata09_dpg}},{{datas.somadata10_dpg}}, {{datas.somadata11_dpg}}, {{datas.somadata12_dpg}}],
 			  }
@@ -214,7 +228,7 @@
 			};
 
 			const config = {
-			    type: 'line',
+			    type: 'bar',
 			    data,
 			    options: {
 			  		fill: true,
@@ -225,8 +239,7 @@
 					        display: true,
 					        title: {
 					          display: true,
-					          text: 'Meses',
-					          color: '#191',
+					          text: "PCH {{datas.pch_name}}",
 					          font: {
 					            family: 'Comic Sans MS',
 					            size: 20,
@@ -238,15 +251,16 @@
 					      },
 					      y: {
 					        display: true,
+							min:0,
+							max:250,
 					        title: {
 					          display: true,
 					          text: 'Horas indisponibilidade',
-					          color: '#191',
 					          font: {
 					            family: 'Times',
 					            size: 20,
 					            style: 'normal',
-					            lineHeight: 1.2
+					            lineHeight: 0.8
 					          },
 					          padding: {top: 30, left: 0, right: 0, bottom: 0}
 					        }
@@ -256,11 +270,12 @@
 			};
 
 			var myChart = new Chart(
-	    		document.getElementById('myChartLine'),
+	    		document.getElementById('myChartBar'),
 	    		config
 	  		);
 		</script>
 	</div>
+	<!-- Bibliotecas e PLugins -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	  <!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
@@ -293,6 +308,8 @@
 		});
 	</script>
 </div>
+
+
 <style type="text/css" media="screen">
 	#range{
 		margin-right: 40%;

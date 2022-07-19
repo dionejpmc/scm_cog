@@ -1,1 +1,2 @@
-source scm/bin/activate
+#!/bin/sh
+python3 source .scm/bin/activate

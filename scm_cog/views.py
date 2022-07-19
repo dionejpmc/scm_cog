@@ -1,9 +1,11 @@
+from ast import Try
+from pydoc import isdata
 from django.views.generic import TemplateView
 from django.shortcuts import render
 from django.contrib.auth import update_session_auth_hash
 from django.contrib.auth.forms import PasswordChangeForm
 from django.shortcuts import render, redirect
-from django.utils.translation import ugettext as _
+#from django.utils.translation import ugettext as _
 from django.views.generic import TemplateView
 from django.contrib.auth.decorators import login_required
 # -*- encoding: utf-8 -*-
@@ -31,6 +33,10 @@ def HomePageView(request):
     template_name = "home.html"
     return render(request,template_name,{})
 
+def Handler_not_found(request, exception):
+    return render(request, 'not-found.html')
+
+@login_required
 def MenuPageView(request):
     template_name = "menu/menu_inicio.html"
     return render(request,template_name,{})
@@ -56,14 +62,14 @@ def ChangePasswordView(request):
 def AddEventsPage(request):
     template_name = "reports/addevents.html"
     all_data = Tmpevent.objects.filter(user_id=request.user.id)
-    dif_user = False;
+    dif_user = False
 
     for data in all_data:
         dif = data.data_start - data.data_stop
         data.difference = dif
         data.data_stop = data.data_stop.strftime("%Y-%m-%d %H:%M")
         data.data_start = data.data_start.strftime("%Y-%m-%d %H:%M")
-        if data.user.username ==  request.user.username:
+        if data.user.username !=  request.user.username:
             dif_user = True;
     tmp_event = {'all_data': all_data}
     if (dif_user):
@@ -154,8 +160,6 @@ def Validate(request):
         print("Justificativa incorreta!")
         messages.error(request, 'Inconsistencia na Justificativa.')
     return value
-
-
 @login_required
 def FinaliseWorkShift(request):
     batch_size = 100
@@ -178,7 +182,6 @@ def FinaliseWorkShift(request):
         print(e)
         print(Style.RESET_ALL)
         return redirect('.')
-
     return redirect('.')
     
 @login_required
@@ -286,22 +289,33 @@ def GraphReport(request):
     kpi_ip02 = 0;
     kpi_mt02 = 0;
     kpi_dpg02 = 0;
-    if 'sigla' in request.GET:
-        #https://stackoverflow.com/questions/5895588/django-multivaluedictkeyerror-error-how-do-i-deal-with-it
-        if Pch.objects.filter(sigla=request.GET['sigla']).exists():
-            pch =  Pch.objects.filter(sigla=request.GET['sigla'])
-        else:
-            pch = Pch.objects.all()[:random.choice([1, 2, 3, 4])]
-    else:
-        pch = Pch.objects.all()[:random.choice([1, 2, 3, 4])]
-    for x in pch:
-        pch_id = x.id
-        pch_name = x.pch_name
+    try:
+            #https://stackoverflow.com/questions/5895588/django-multivaluedictkeyerror-error-how-do-i-deal-with-it
+            if Pch.objects.filter(sigla=request.GET['sigla']).exists():
+                pch =  Pch.objects.filter(sigla=request.GET['sigla'])
+                pch_id = pch[0].id
+                pch_name = pch[0].pch_name
+                pch_sigla = pch[0].sigla
+            else:
+                pch = Pch.objects.all()[:random.choice([1, 2, 3, 4])]
+                pch_id = pch[0].id
+                pch_name = pch[0].sigla
+                pch_sigla = pch[0].sigla
+                messages.warning(request,"Pesquisa com valores incorretos! Um valor correto foi automaticamente selecionado pelo sistema.")
+    except:
+        pch = Pch.objects.first()
+        pch_id = pch.id
+        pch_name = pch.pch_name
+        pch_sigla = pch.sigla
+        messages.warning(request,"Pesquisa randomica")
     if request.method == 'GET':
         if ('data_inicial' in request.GET):
-            format = "%Y-%m-%d %H:%M"
+            format = "%Y-%m-%d"
             datestop = request.GET['data_inicial']
-            datestop = datetime.datetime.strptime(datestop, format)
+            try:
+                datestop = datetime.datetime.strptime(datestop, format)
+            except:
+                datestop = datetime.datetime.strptime(str(datetime.date.today()), format)
             data = Event.objects.filter(data_stop__year=datestop.year, pch_id=pch_id).values('data_start','data_stop','ug','pch_id','interruption')
         else:
             data = Event.objects.filter(data_stop__year=datetime.date.today().year, pch_id=pch_id).values('data_start','data_stop','ug','pch_id','interruption')
@@ -327,8 +341,7 @@ def GraphReport(request):
                     dif = value['data_start'] - value['data_stop']
                     somadata01_mt += (dif.seconds / 60)+(dif.days*24*60);
                     if value['ug'] == 1:
-                        kpi_mt01 +=somadata01_mt
-                    else:
+                        kpi_mt01 +=somadata01_mtsomadata02_if
                         kpi_mt02 +=somadata01_mt
                 if value['interruption'] == 'DPG':
                     dif = value['data_start'] - value['data_stop']
@@ -660,6 +673,7 @@ def GraphReport(request):
                         kpi_dpg02 +=somadata12_dpg
         objeto   = {
                     'pch_name':pch_name,
+                    'pch_sigla':pch_sigla,
                     'kpi_if01':kpi_if01,
                     'kpi_ip01':kpi_ip01,
                     'kpi_mt01':kpi_mt01,
@@ -1255,7 +1269,6 @@ def GraphReportAnual(request):
         
         datas = {'datas': objeto}
         template_name = 'reports/graphreport.html'
-        #messages.warning(request, {somadata07_if})
         return render(request,template_name, datas)
     else:
         messages.warning(request, 'Teste Else no GET!')

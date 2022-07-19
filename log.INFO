@@ -1,0 +1,2740 @@
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/scm_cog/ HTTP/1.1" 200 3662
+"GET /admin/scm_cog/ HTTP/1.1" 200 3662
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /accounts/logout/ HTTP/1.1" 200 1931
+"POST /accounts/logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2334
+"GET /accounts/login/ HTTP/1.1" 200 3001
+"GET /admin/logout/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2239
+"GET / HTTP/1.1" 200 1756
+"POST /accounts/login/ HTTP/1.1" 302 0
+"GET /menu HTTP/1.1" 301 0
+"GET /menu/ HTTP/1.1" 200 2796
+"GET /admin/scm_cog/ HTTP/1.1" 200 3662
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 8406
+"GET /admin/ HTTP/1.1" 200 8406
+"GET /admin/ HTTP/1.1" 200 8406
+"GET /admin/ HTTP/1.1" 200 8406
+"GET /admin/ HTTP/1.1" 200 8406
+"GET /admin/ HTTP/1.1" 200 8406
+"GET /admin/ HTTP/1.1" 200 8406
+"GET /admin/ HTTP/1.1" 200 8406
+"GET /admin/logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1756
+"GET /reports/ HTTP/1.1" 302 0
+"GET /accounts/login/?next=/reports/ HTTP/1.1" 200 3001
+"GET /personal/changepassword/ HTTP/1.1" 302 0
+"GET /accounts/login/?next=/personal/changepassword/ HTTP/1.1" 200 3001
+"GET /menu/ HTTP/1.1" 302 0
+"GET /accounts/login/?next=/menu/ HTTP/1.1" 200 3001
+"GET /accounts/login/ HTTP/1.1" 200 3001
+"GET /accounts/signup/ HTTP/1.1" 200 3405
+"GET /accounts/logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1756
+"GET /accounts/login/ HTTP/1.1" 200 3001
+"POST /accounts/login/ HTTP/1.1" 302 0
+"GET /menu HTTP/1.1" 301 0
+"GET /menu/ HTTP/1.1" 200 2796
+"GET /reports/ HTTP/1.1" 200 11173
+"GET /static/css/images/ui-icons_444444_256x240.png HTTP/1.1" 404 1873
+"GET /reports/graphreport HTTP/1.1" 200 9305
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A02&sigla=SR HTTP/1.1" 200 9290
+"GET /accounts/login/ HTTP/1.1" 302 0
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /reports/ HTTP/1.1" 200 11173
+"GET /static/css/images/ui-icons_444444_256x240.png HTTP/1.1" 404 1873
+"GET /reports/finalizework HTTP/1.1" 302 0
+"GET /reports/ HTTP/1.1" 302 0
+"GET /accounts/login/?next=/reports/ HTTP/1.1" 200 3388
+"POST /accounts/login/?next=/reports/ HTTP/1.1" 302 0
+"GET /reports/ HTTP/1.1" 200 10092
+"GET /reports/graphreport HTTP/1.1" 200 9305
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9293
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9293
+"GET / HTTP/1.1" 200 1614
+"GET /admin/ HTTP/1.1" 200 8406
+"GET /admin/scm_cog/event/ HTTP/1.1" 200 14846
+"GET /admin/jsi18n/ HTTP/1.1" 200 8558
+"GET /admin/scm_cog/event/ HTTP/1.1" 200 14846
+"GET /admin/jsi18n/ HTTP/1.1" 200 8558
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9315
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9388
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9388
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9403
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9403
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9403
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9419
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9419
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9419
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9419
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9419
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9420
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9420
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9420
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9434
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9434
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9434
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9434
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9434
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9449
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9449
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9449
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9449
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9449
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9449
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9449
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9449
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9449
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9455
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9456
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9457
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9457
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9473
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9473
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9489
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9489
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9489
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9508
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9532
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9532
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9532
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9528
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9528
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9534
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9534
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A17&sigla=SR HTTP/1.1" 200 9492
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/graphreport HTTP/1.1" 200 9492
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/graphreport HTTP/1.1" 200 9511
+"GET /reports/graphreport HTTP/1.1" 200 9555
+"GET /reports/graphreport HTTP/1.1" 200 9536
+"GET /reports/graphreport HTTP/1.1" 200 9536
+"GET /reports/graphreport HTTP/1.1" 200 9547
+"GET /reports/graphreport HTTP/1.1" 200 9535
+"GET /reports/graphreport HTTP/1.1" 200 9544
+"GET /reports/graphreport HTTP/1.1" 200 9537
+"GET /reports/graphreport HTTP/1.1" 200 9589
+"GET /reports/graphreport HTTP/1.1" 200 9525
+"GET /reports/graphreport HTTP/1.1" 200 9525
+"GET /reports/graphreport HTTP/1.1" 200 9525
+"GET /reports/graphreport HTTP/1.1" 200 9525
+"GET /reports/graphreport HTTP/1.1" 200 9544
+"GET /reports/graphreport HTTP/1.1" 200 9544
+"GET /reports/graphreport HTTP/1.1" 200 9525
+"GET /reports/graphreport HTTP/1.1" 200 9544
+"GET /reports/graphreport HTTP/1.1" 200 9600
+"GET /reports/graphreport HTTP/1.1" 200 9577
+"GET /reports/graphreport HTTP/1.1" 200 9577
+"GET /reports/graphreport HTTP/1.1" 200 9577
+"GET /reports/graphreport HTTP/1.1" 200 9577
+"GET /reports/graphreport HTTP/1.1" 200 9600
+"GET /reports/graphreport HTTP/1.1" 200 9589
+"GET /reports/graphreport HTTP/1.1" 200 9589
+"GET /reports/graphreport HTTP/1.1" 200 9589
+"GET /reports/graphreport HTTP/1.1" 200 9577
+"GET /reports/graphreport HTTP/1.1" 200 9589
+"GET /reports/graphreport HTTP/1.1" 200 9577
+"GET /reports/graphreport HTTP/1.1" 200 9577
+"GET /reports/graphreport HTTP/1.1" 200 9600
+"GET /reports/graphreport HTTP/1.1" 200 9577
+"GET /reports/graphreport HTTP/1.1" 200 9542
+"GET /reports/graphreport HTTP/1.1" 200 9525
+"GET /reports/graphreport HTTP/1.1" 200 9515
+"GET /reports/graphreport HTTP/1.1" 200 9504
+"GET /reports/graphreport HTTP/1.1" 200 9485
+"GET /reports/graphreport HTTP/1.1" 200 9513
+"GET /reports/graphreport HTTP/1.1" 200 9552
+"GET /reports/graphreport HTTP/1.1" 200 9544
+"GET /reports/graphreport HTTP/1.1" 200 9551
+"GET /reports/graphreport HTTP/1.1" 200 9544
+"GET /reports/graphreport HTTP/1.1" 200 9551
+"GET /reports/graphreport HTTP/1.1" 200 9532
+"GET /reports/graphreport HTTP/1.1" 200 9532
+"GET /reports/graphreport HTTP/1.1" 200 9532
+"GET /reports/graphreport HTTP/1.1" 200 9551
+"GET /reports/graphreport HTTP/1.1" 200 9532
+"GET /reports/graphreport HTTP/1.1" 200 9551
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/save_tmp?csrfmiddlewaretoken=thXq2zcEW0XNhorLKd6dlr2nOkZUX57L5BEJV3zOVLARSmaZSkBxzCtJOHrd1Dh9&pch_name=SR&ug=UG01&cause=DPG&data_stop=2022-05-11+05%3A35&data_start=2022-05-11+11%3A55&justfi=DPG+%28Controle+de+n%C3%ADvel%29&complement=DPG+%28Controle+de+n%C3%ADvel%29 HTTP/1.1" 302 0
+"GET /reports/ HTTP/1.1" 200 11424
+"GET /static/css/images/ui-icons_444444_256x240.png HTTP/1.1" 404 1873
+"GET /reports/finalizework HTTP/1.1" 302 0
+"GET /reports/ HTTP/1.1" 302 0
+"GET /accounts/login/?next=/reports/ HTTP/1.1" 200 3388
+"GET /accounts/login/ HTTP/1.1" 200 3001
+"POST /accounts/login/ HTTP/1.1" 302 0
+"GET /menu HTTP/1.1" 301 0
+"GET /menu/ HTTP/1.1" 200 2796
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/graphreport HTTP/1.1" 200 9544
+"GET /reports/graphreport HTTP/1.1" 200 9544
+"GET /reports/graphreport HTTP/1.1" 200 9540
+"GET /reports/graphreport HTTP/1.1" 200 9784
+"GET /reports/graphreport HTTP/1.1" 200 9808
+"GET /reports/graphreport HTTP/1.1" 200 9808
+"GET /reports/graphreport HTTP/1.1" 200 9808
+"GET /reports/graphreport HTTP/1.1" 200 9753
+"GET /reports/graphreport HTTP/1.1" 200 9753
+"GET /reports/graphreport HTTP/1.1" 200 9742
+"GET /reports/graphreport HTTP/1.1" 200 9746
+"GET /reports/graphreport HTTP/1.1" 200 9734
+"GET /reports/graphreport HTTP/1.1" 200 9735
+"GET /reports/graphreport HTTP/1.1" 200 9743
+"GET /reports/graphreport HTTP/1.1" 200 9540
+"GET /reports/graphreport HTTP/1.1" 200 9516
+"GET /reports/graphreport HTTP/1.1" 200 9509
+"GET /reports/graphreport HTTP/1.1" 200 9516
+"GET /reports/graphreport HTTP/1.1" 200 9516
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9516
+"GET /reports/graphreport HTTP/1.1" 200 9509
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9516
+"GET /reports/graphreport HTTP/1.1" 200 9509
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9507
+"GET /reports/graphreport HTTP/1.1" 200 9502
+"GET /reports/graphreport HTTP/1.1" 200 9502
+"GET /reports/graphreport HTTP/1.1" 200 9513
+"GET /reports/graphreport HTTP/1.1" 200 9494
+"GET /reports/graphreport HTTP/1.1" 200 9502
+"GET /reports/graphreport HTTP/1.1" 200 9494
+"GET /reports/graphreport HTTP/1.1" 200 9513
+"GET /reports/graphreport HTTP/1.1" 200 9513
+"GET /reports/graphreport HTTP/1.1" 200 9540
+"GET /reports/graphreport HTTP/1.1" 200 9533
+"GET /reports/graphreport HTTP/1.1" 200 9533
+"GET /reports/graphreport HTTP/1.1" 200 9529
+"GET /reports/graphreport HTTP/1.1" 200 9533
+"GET /reports/graphreport HTTP/1.1" 200 9510
+"GET /reports/graphreport HTTP/1.1" 200 9574
+"GET /reports/graphreport HTTP/1.1" 200 9585
+"GET /reports/graphreport HTTP/1.1" 200 9578
+"GET /reports/graphreport HTTP/1.1" 200 9575
+"GET /reports/graphreport HTTP/1.1" 200 9494
+"GET /reports/graphreport HTTP/1.1" 200 9494
+"GET /reports/graphreport HTTP/1.1" 200 9502
+"GET /reports/graphreport HTTP/1.1" 200 9483
+"GET /reports/graphreport HTTP/1.1" 200 9446
+"GET /reports/graphreport HTTP/1.1" 200 9474
+"GET /reports/graphreport HTTP/1.1" 200 9474
+"GET /reports/graphreport HTTP/1.1" 200 9474
+"GET /static/css/bootstrap-datetimepicker.min.css HTTP/1.1" 304 0
+"GET /static/js/moment.min.js HTTP/1.1" 304 0
+"GET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1" 304 0
+"GET /reports/graphreport HTTP/1.1" 200 9474
+"GET /reports/graphreport HTTP/1.1" 200 9466
+"GET /reports/graphreport HTTP/1.1" 200 9468
+"GET /reports/graphreport HTTP/1.1" 200 9457
+"GET /reports/graphreport HTTP/1.1" 200 9449
+"GET /reports/graphreport HTTP/1.1" 200 9461
+"GET /reports/graphreport HTTP/1.1" 200 9468
+"GET /reports/graphreport HTTP/1.1" 200 9457
+"GET /reports/graphreport HTTP/1.1" 200 9449
+"GET /reports/graphreport HTTP/1.1" 200 9457
+"GET /reports/graphreport HTTP/1.1" 200 9468
+"GET /reports/graphreport HTTP/1.1" 200 9461
+"GET /reports/graphreport HTTP/1.1" 200 9461
+"GET /reports/graphreport HTTP/1.1" 200 9442
+"GET /reports/graphreport HTTP/1.1" 200 9442
+"GET /reports/graphreport HTTP/1.1" 200 9434
+"GET /reports/graphreport HTTP/1.1" 200 9446
+"GET /reports/graphreport HTTP/1.1" 200 9446
+"GET /reports/graphreport HTTP/1.1" 200 9453
+"GET /reports/graphreport HTTP/1.1" 200 9446
+"GET /reports/graphreport HTTP/1.1" 200 9446
+"GET /reports/graphreport HTTP/1.1" 200 9442
+"GET /reports/graphreport HTTP/1.1" 200 9476
+"GET /reports/graphreport HTTP/1.1" 200 9464
+"GET /reports/graphreport HTTP/1.1" 200 9464
+"GET /reports/graphreport HTTP/1.1" 200 9483
+"GET /reports/graphreport HTTP/1.1" 200 9472
+"GET /reports/graphreport HTTP/1.1" 200 9491
+"GET /reports/graphreport HTTP/1.1" 200 9478
+"GET /reports/graphreport HTTP/1.1" 200 9481
+"GET /reports/graphreport HTTP/1.1" 200 9481
+"GET /reports/graphreport HTTP/1.1" 200 9489
+"GET /reports/graphreport HTTP/1.1" 200 9500
+"GET /reports/graphreport HTTP/1.1" 200 9493
+"GET /reports/graphreport HTTP/1.1" 200 9465
+"GET /reports/graphreport HTTP/1.1" 200 9483
+"GET /reports/graphreport HTTP/1.1" 200 9495
+"GET /reports/graphreport HTTP/1.1" 200 9468
+"GET /reports/graphreport HTTP/1.1" 200 9478
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9491
+"GET /reports/graphreport HTTP/1.1" 200 9491
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9491
+"GET /reports/graphreport HTTP/1.1" 200 9497
+"GET /reports/graphreport HTTP/1.1" 200 9478
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9478
+"GET /reports/graphreport HTTP/1.1" 200 9478
+"GET /reports/graphreport HTTP/1.1" 200 9475
+"GET /reports/graphreport HTTP/1.1" 200 9479
+"GET /reports/graphreport HTTP/1.1" 200 9486
+"GET /reports/graphreport HTTP/1.1" 200 9475
+"GET /reports/graphreport HTTP/1.1" 200 9467
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9985
+"GET /reports/graphreport HTTP/1.1" 200 10229
+"GET /reports/graphreport HTTP/1.1" 200 9724
+"GET /reports/graphreport HTTP/1.1" 200 9724
+"GET /reports/graphreport HTTP/1.1" 200 9724
+"GET /reports/graphreport HTTP/1.1" 200 10229
+"GET /reports/graphreport HTTP/1.1" 200 9724
+"GET /reports/graphreport HTTP/1.1" 200 10229
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9957
+"GET /reports/graphreport HTTP/1.1" 200 10411
+"GET /reports/graphreport HTTP/1.1" 200 10187
+"GET /reports/graphreport HTTP/1.1" 200 10187
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 10411
+"GET /reports/graphreport HTTP/1.1" 200 10411
+"GET /reports/graphreport HTTP/1.1" 200 10187
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9957
+"GET /reports/graphreport HTTP/1.1" 200 10187
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+"GET /reports/graphreport HTTP/1.1" 200 9710
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9957
+"GET /reports/graphreport HTTP/1.1" 200 9957
+"GET /reports/graphreport HTTP/1.1" 200 10187
+"GET /reports/graphreport HTTP/1.1" 200 10187
+"GET /reports/graphreport HTTP/1.1" 200 10411
+"GET /reports/graphreport HTTP/1.1" 200 10187
+"GET /reports/graphreport HTTP/1.1" 200 9957
+"GET /reports/graphreport HTTP/1.1" 200 9957
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86303
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86678
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 10913
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86302
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86677
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86709
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86709
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86709
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86709
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86709
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 298, in GraphReport
+    for x in pch:
+UnboundLocalError: local variable 'pch' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86715
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 12365
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9722
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 305, in GraphReport
+    data = Event.objects.filter(data_stop__year=datestop.year, pch_id=pch_id).values('data_start','data_stop','ug','pch_id','interruption')
+NameError: name 'pch_id' is not defined
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 500 88161
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 293, in GraphReport
+    pch_id = pch.id
+AttributeError: 'QuerySet' object has no attribute 'id'
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 500 87182
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 293, in GraphReport
+    pch_id = pch.get.pch_id
+AttributeError: 'function' object has no attribute 'pch_id'
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 500 87214
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 293, in GraphReport
+    pch_id = pch.get.id
+AttributeError: 'function' object has no attribute 'id'
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 500 87187
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 293, in GraphReport
+    pch_id = pch.get.id
+AttributeError: 'function' object has no attribute 'id'
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 500 87187
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 293, in GraphReport
+    pch_id = pch.get.id
+AttributeError: 'function' object has no attribute 'id'
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 500 87187
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 293, in GraphReport
+    pch_id = pch.get.id
+AttributeError: 'function' object has no attribute 'id'
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 500 87187
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 294, in GraphReport
+    pch_name = pch.sigla
+AttributeError: 'QuerySet' object has no attribute 'sigla'
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 500 87400
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9459
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9459
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9459
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9459
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9459
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9459
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9459
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9459
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9459
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9686
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9686
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9686
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=NF HTTP/1.1" 200 9686
+"GET /reports/graphreport?data_inicial=2022-07-14+00%3A03&sigla=RF HTTP/1.1" 200 9667
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A05&sigla=SM HTTP/1.1" 200 9676
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 308, in GraphReport
+    data = Event.objects.filter(data_stop__year=datetime.date.today().year, pch_id=pch_id).values('data_start','data_stop','ug','pch_id','interruption')
+UnboundLocalError: local variable 'pch_id' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86961
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9935
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9695
+"GET /reports/graphreport HTTP/1.1" 200 9695
+"GET /reports/graphreport HTTP/1.1" 200 9695
+"GET /reports/graphreport HTTP/1.1" 200 9695
+"GET /reports/graphreport HTTP/1.1" 200 9695
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9707
+"GET /reports/graphreport HTTP/1.1" 200 9707
+"GET /reports/graphreport HTTP/1.1" 200 9690
+"GET /reports/graphreport HTTP/1.1" 200 9693
+"GET /reports/graphreport HTTP/1.1" 200 9694
+"GET /reports/graphreport HTTP/1.1" 200 9694
+"GET /reports/graphreport HTTP/1.1" 200 9694
+"GET /reports/graphreport HTTP/1.1" 200 9694
+"GET /reports/graphreport HTTP/1.1" 200 9694
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9668
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9671
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 668, in GraphReport
+    'pch_sigla':pch_sigla,
+UnboundLocalError: local variable 'pch_sigla' referenced before assignment
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 500 89299
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9943
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A04&sigla=RF HTTP/1.1" 200 9716
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90317
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90290
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90290
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90388
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90388
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90354
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90388
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90388
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 300, in GraphReport
+    pch = Pch.objects.all()[:(a)]
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 341, in __getitem__
+    raise ValueError("Negative indexing is not supported.")
+ValueError: Negative indexing is not supported.
+"GET /reports/graphreport HTTP/1.1" 500 90197
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90290
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90290
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 301, in GraphReport
+    pch_id = pch[a].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90288
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 307, in GraphReport
+    data = Event.objects.filter(data_stop__year=datetime.date.today().year, pch_id=pch_id).values('data_start','data_stop','ug','pch_id','interruption')
+UnboundLocalError: local variable 'pch_id' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86879
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 307, in GraphReport
+    data = Event.objects.filter(data_stop__year=datetime.date.today().year, pch_id=pch_id).values('data_start','data_stop','ug','pch_id','interruption')
+UnboundLocalError: local variable 'pch_id' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86879
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 307, in GraphReport
+    data = Event.objects.filter(data_stop__year=datetime.date.today().year, pch_id=pch_id).values('data_start','data_stop','ug','pch_id','interruption')
+UnboundLocalError: local variable 'pch_id' referenced before assignment
+"GET /reports/graphreport HTTP/1.1" 500 86879
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9499
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 302, in GraphReport
+    pch_id = pch[1].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90184
+"GET /reports/graphreport HTTP/1.1" 200 9499
+"GET /reports/graphreport HTTP/1.1" 200 9499
+"GET /reports/graphreport HTTP/1.1" 200 9499
+"GET /reports/graphreport HTTP/1.1" 200 9499
+"GET /reports/graphreport HTTP/1.1" 200 9499
+"GET /reports/graphreport HTTP/1.1" 200 9499
+"GET /reports/graphreport HTTP/1.1" 200 9499
+"GET /reports/graphreport HTTP/1.1" 200 9499
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 302, in GraphReport
+    pch_id = pch[1].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90184
+"GET /reports/graphreport HTTP/1.1" 200 9499
+"GET /reports/graphreport HTTP/1.1" 200 9499
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 302, in GraphReport
+    pch_id = pch[1].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90184
+"GET /reports/graphreport HTTP/1.1" 200 9499
+"GET /reports/graphreport HTTP/1.1" 200 9499
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 302, in GraphReport
+    pch_id = pch[1].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90184
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 302, in GraphReport
+    pch_id = pch[1].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90184
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 302, in GraphReport
+    pch_id = pch[1].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90184
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 310, in GraphReport
+    data = Event.objects.filter(data_stop__year=datestop.year, pch_id=pch_id).values('data_start','data_stop','ug','pch_id','interruption')
+UnboundLocalError: local variable 'pch_id' referenced before assignment
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A00&sigla=ss HTTP/1.1" 500 87930
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9740
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9741
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[1].id
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/db/models/query.py", line 362, in __getitem__
+    return qs._result_cache[0]
+IndexError: list index out of range
+"GET /reports/graphreport HTTP/1.1" 500 90171
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9729
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+"GET /reports/graphreport HTTP/1.1" 200 9729
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'method' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86503
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'method' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86503
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'method' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86503
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 304, in GraphReport
+    pch_id = pch[0].id
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86326
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 305, in GraphReport
+    pch_name = pch[0].pch_name
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86488
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 305, in GraphReport
+    pch_name = pch[0].pch_name
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86488
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 305, in GraphReport
+    pch_name = pch[0].pch_name
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86488
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 305, in GraphReport
+    pch_name = pch[0].pch_name
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86488
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 305, in GraphReport
+    pch_name = pch[0].pch_name
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86488
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 305, in GraphReport
+    pch_name = pch[0].pch_name
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86488
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 305, in GraphReport
+    pch_name = pch[0].pch_name
+TypeError: 'Pch' object is not subscriptable
+"GET /reports/graphreport HTTP/1.1" 500 86488
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport HTTP/1.1" 200 9487
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9744
+"GET /reports/graphreport HTTP/1.1" 200 9744
+"GET /reports/graphreport HTTP/1.1" 200 9744
+"GET /reports/graphreport HTTP/1.1" 200 9744
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9714
+"GET /reports/graphreport HTTP/1.1" 200 9714
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9714
+"GET /reports/graphreport HTTP/1.1" 200 9714
+"GET /reports/graphreport HTTP/1.1" 200 9714
+"GET /reports/graphreport HTTP/1.1" 200 9714
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A00&sigla=ss HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A00&sigla=ss HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A00&sigla=ss HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A00&sigla=ss HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A00&sigla=ss HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A00&sigla=ss HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A00&sigla=ss HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A00&sigla=ss HTTP/1.1" 200 9712
+"GET /reports/graphreport HTTP/1.1" 200 9487
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A00&sigla=vxc HTTP/1.1" 200 9712
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A00&sigla=vxc HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A00&sigla=vxc HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A00&sigla=vxc HTTP/1.1" 200 9712
+"GET /reports/graphreport HTTP/1.1" 200 9730
+"GET /reports/graphreport HTTP/1.1" 200 9730
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=sdas HTTP/1.1" 200 9712
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=sdas HTTP/1.1" 200 9776
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=sdas HTTP/1.1" 200 9776
+"GET /reports/graphreport HTTP/1.1" 200 9730
+"GET /reports/graphreport?data_inicial=2022-06-30+00%3A00&sigla=SR HTTP/1.1" 200 9487
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A00&sigla=SM HTTP/1.1" 200 9493
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A00&sigla=ggggg HTTP/1.1" 200 9776
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 312, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 022222220:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+022222220%3A00&sigla=SN HTTP/1.1" 500 97603
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 10051
+"GET /reports/graphreport HTTP/1.1" 200 9730
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A00&sigla=dfgdf HTTP/1.1" 200 9776
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 315, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 97754
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98449
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98431
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98448
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98439
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98435
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98475
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98424
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98464
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98447
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 313, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-06 sdsdsfdsfsdsd00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-06+sdsdsfdsfsdsd00%3A00&sigla=dfgdf HTTP/1.1" 500 98466
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A00&sigla=dfgdf HTTP/1.1" 200 13307
+"GET /reports/graphreport?data_inicial=2022-07-06+00%3A00&sigla=dfgdf HTTP/1.1" 200 9780
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=RF HTTP/1.1" 200 9484
+"GET /reports/graphreport?data_inicial=2022-07-18+00%3A01&sigla=RF HTTP/1.1" 200 9476
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /static/images/form.png HTTP/1.1" 304 0
+"GET /static/images/maintenance.png HTTP/1.1" 304 0
+"GET /static/images/analytics.png HTTP/1.1" 304 0
+"GET /static/images/profile.png HTTP/1.1" 304 0
+"GET /static/images/report.png HTTP/1.1" 304 0
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/js/jquery-3.5.1.slim.min.js HTTP/1.1" 304 0
+"GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+"GET /static/js/remove-table-line.js HTTP/1.1" 304 0
+"GET /static/css/jquery-ui.css HTTP/1.1" 304 0
+"GET /static/js/turn_end.js HTTP/1.1" 304 0
+"GET /static/css/addevents.css HTTP/1.1" 200 3778
+"GET /static/images/add64px.png HTTP/1.1" 304 0
+"GET /static/images/reports32.png HTTP/1.1" 304 0
+"GET /reports/graphreport HTTP/1.1" 200 9726
+"GET /reports/graphreport HTTP/1.1" 200 9726
+Not Found: /reports/yt-swatch-behavior_custom_style.css.map
+"GET /reports/yt-swatch-behavior_custom_style.css.map HTTP/1.1" 404 3531
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /static/js/bootstrap.bundle.min.js.map HTTP/1.1" 404 1849
+"GET /static/css/bootstrap.min.css.map HTTP/1.1" 404 1834
+"GET /reports/graphreport HTTP/1.1" 200 9726
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /static/js/bootstrap.bundle.min.js.map HTTP/1.1" 404 1849
+"GET /static/css/bootstrap.min.css.map HTTP/1.1" 404 1834
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/scm_cog/event/ HTTP/1.1" 200 15403
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 8558
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3423
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /static/js/remove-table-line.js HTTP/1.1" 304 0
+"GET /static/css/jquery-ui.css HTTP/1.1" 304 0
+"GET /static/css/addevents.css HTTP/1.1" 304 0
+"GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+"GET /static/js/jquery-3.5.1.slim.min.js HTTP/1.1" 304 0
+"GET /static/js/turn_end.js HTTP/1.1" 304 0
+"GET /static/css/bootstrap-datetimepicker.min.css HTTP/1.1" 304 0
+"GET /static/js/moment.min.js HTTP/1.1" 304 0
+"GET /static/images/reports32.png HTTP/1.1" 304 0
+"GET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1" 304 0
+"GET /static/images/add64px.png HTTP/1.1" 304 0
+"GET /reports/graphreport HTTP/1.1" 200 9726
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /static/images/profile.png HTTP/1.1" 304 0
+"GET /static/images/form.png HTTP/1.1" 304 0
+"GET /static/images/report.png HTTP/1.1" 304 0
+"GET /static/images/maintenance.png HTTP/1.1" 304 0
+"GET /static/images/analytics.png HTTP/1.1" 304 0
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /personal/changepassword/ HTTP/1.1" 200 2652
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /menu/ HTTP/1.1" 200 2439
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/graphreport HTTP/1.1" 200 9726
+"GET /reports/graphreport HTTP/1.1" 200 9726
+"GET /reports/graphreport?data_inicial=2022-07-27+00%3A00&sigla=RF HTTP/1.1" 200 9476
+"GET /reports/graphreport?data_inicial=2022-07-23+00%3A00&sigla=%3Cscript%3Ealert%28%22teste%22%29%3C%2Fscript%3E HTTP/1.1" 200 9772
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 309, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '<script>alert("teste")</script>' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=%3Cscript%3Ealert%28%22teste%22%29%3C%2Fscript%3E HTTP/1.1" 500 97781
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=SR HTTP/1.1" 200 9962
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 312, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-2ssss0 00:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-2ssss0+00%3A00&sigla=SR HTTP/1.1" 500 97598
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=SR HTTP/1.1" 200 9955
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=SR HTTP/1.1" 200 9719
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=SR HTTP/1.1" 200 9719
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 314, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-20 0dffdf0:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-20+0dffdf0%3A00&sigla=SR HTTP/1.1" 500 97547
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=SR HTTP/1.1" 200 9955
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 312, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-20 aSASA:00' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07-20+aSASA%3A00&sigla=SR HTTP/1.1" 500 97593
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=SR HTTP/1.1" 200 9955
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 314, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-asasas 00:00' does not match format '%Y-%m-%d %H:%M'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 316, in GraphReport
+    datestop = datetime.datetime.strptime(datetime.date.today(), format)
+TypeError: strptime() argument 1 must be str, not datetime.date
+"GET /reports/graphreport?data_inicial=2022-07-asasas+00%3A00&sigla=SR HTTP/1.1" 500 111991
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-20+00%3A00&sigla=SR HTTP/1.1" 200 9955
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 314, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07wqwq20 00:00' does not match format '%Y-%m-%d %H:%M'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 316, in GraphReport
+    datestop = datetime.datetime.strptime(str(datetime.date.today()), format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07-19' does not match format '%Y-%m-%d %H:%M'
+"GET /reports/graphreport?data_inicial=2022-07wqwq20+00%3A00&sigla=SR HTTP/1.1" 500 121212
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 314, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07wqwq20 00:00' does not match format '%Y-%m-%d %H:%M'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 316, in GraphReport
+    datestop = datetime.datetime.strptime(str(datetime.datetime.date.today()), format)
+AttributeError: 'method_descriptor' object has no attribute 'today'
+"GET /reports/graphreport?data_inicial=2022-07wqwq20+00%3A00&sigla=SR HTTP/1.1" 500 112620
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 314, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07wqwq20 00:00' does not match format '%Y-%m-%d %H:%M'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 316, in GraphReport
+    datestop = datetime.datetime.strptime(str(datetime.datetime.date()), format)
+TypeError: unbound method datetime.date() needs an argument
+"GET /reports/graphreport?data_inicial=2022-07wqwq20+00%3A00&sigla=SR HTTP/1.1" 500 112512
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /reports/graphreport
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 314, in GraphReport
+    datestop = datetime.datetime.strptime(datestop, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data '2022-07wqwq20 00:00' does not match format '%Y-%m-%d %H:%M'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/.scm/lib64/python3.10/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py", line 316, in GraphReport
+    datestop = datetime.datetime.strptime(str(datetime.datetime.date(datetime.date.today())), format)
+TypeError: descriptor 'date' for 'datetime.datetime' objects doesn't apply to a 'datetime.date' object
+"GET /reports/graphreport?data_inicial=2022-07wqwq20+00%3A00&sigla=SR HTTP/1.1" 500 112887
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07wqwq20+00%3A00&sigla=SR HTTP/1.1" 200 10663
+"GET /reports/graphreport?data_inicial=2022-07wqwq20+0rwerwewe0%3A00&sigla=SR HTTP/1.1" 200 9719
+"GET /reports/graphreport?data_inicial=2022-07wqewerwerwwq20+0rwerwewe0%3A00&sigla=SR HTTP/1.1" 200 9719
+"GET /reports/graphreport?data_inicial=2022-07-14+00%3A00&sigla=RF HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=202444442-07-14+00%3A00&sigla=RF HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=202444442-07-1455+00%3A00&sigla=RF HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=25fdfddf3A00&sigla=RF HTTP/1.1" 200 9712
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=dasdasdasdsa&sigla=RF HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=443454545gfgfgfgf&sigla=RF HTTP/1.1" 200 9712
+"GET /reports/graphreport?data_inicial=2022-07-19+00%3A00&sigla=SR HTTP/1.1" 200 9719
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022ewqqqw-07-19+0weqw0%3A00&sigla=SR HTTP/1.1" 200 9959
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=12312dwsdas+0weqw0%3A00&sigla=SR HTTP/1.1" 200 9723
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport?data_inicial=2022-07-13+00%3A00&sigla=rwerwe HTTP/1.1" 200 9772
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9726
+Not Found: /reports/graphddd
+"GET /reports/graphddd HTTP/1.1" 404 3438
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /static/css/addevents.css HTTP/1.1" 304 0
+Not Found: /home
+"GET /home HTTP/1.1" 404 3402
+"GET / HTTP/1.1" 200 1614
+"GET /accounts/logout/ HTTP/1.1" 200 1931
+"POST /accounts/logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2334
+"GET /accounts/login/ HTTP/1.1" 200 3001
+"POST /accounts/login/ HTTP/1.1" 302 0
+"GET /menu HTTP/1.1" 301 0
+"GET /menu/ HTTP/1.1" 200 2796
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /accounts/login/ HTTP/1.1" 302 0
+"GET /menu/ HTTP/1.1" 200 2439
+"GET / HTTP/1.1" 200 1614
+Not Found: /edas
+"GET /edas HTTP/1.1" 404 3402
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /edas
+"GET /edas HTTP/1.1" 404 179
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /edas
+"GET /edas HTTP/1.1" 404 3402
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /edas
+"GET /edas HTTP/1.1" 404 179
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /edas
+"GET /edas HTTP/1.1" 404 179
+Not Found: /edas
+"GET /edas HTTP/1.1" 404 179
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /edas HTTP/1.1" 200 311
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /edas HTTP/1.1" 200 333
+Internal Server Error: /edas
+"GET /edas HTTP/1.1" 500 145
+"GET /edas HTTP/1.1" 200 1966
+"GET /static/images/404.jpeg HTTP/1.1" 200 1966
+"GET /edas HTTP/1.1" 200 384
+"GET /static/images/404.jpeg HTTP/1.1" 200 384
+"GET /edas HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /edas HTTP/1.1" 200 389
+"GET /static/images/add16px.png HTTP/1.1" 200 389
+"GET /edas HTTP/1.1" 200 389
+"GET /static/images/add16px.png HTTP/1.1" 200 389
+"GET /edas HTTP/1.1" 200 389
+"GET /static/images/add16px.png HTTP/1.1" 200 389
+"GET /edas HTTP/1.1" 200 389
+"GET /static/images/add16px.png HTTP/1.1" 200 389
+"GET /edas HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET / HTTP/1.1" 200 1614
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+"GET /dasdsa HTTP/1.1" 200 386
+"GET /static/images/404.jpeg HTTP/1.1" 200 386
+Watching for file changes with StatReloader
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /dasdsa HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /images HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /static HTTP/1.1" 200 381
+"GET /static/images/404.jpeg HTTP/1.1" 200 381
+"GET /static HTTP/1.1" 200 387
+"GET /static/images/404.jpeg HTTP/1.1" 200 387
+"GET /menu/ HTTP/1.1" 200 2406
+"GET /home HTTP/1.1" 200 387
+"GET /static/images/404.jpeg HTTP/1.1" 200 387
+"GET /menu/ HTTP/1.1" 200 2406
+Internal Server Error: /msss
+"GET /msss HTTP/1.1" 500 145
+Internal Server Error: /msss
+"GET /msss HTTP/1.1" 500 145
+Internal Server Error: /msss
+"GET /msss HTTP/1.1" 500 145
+"GET / HTTP/1.1" 200 1614
+Internal Server Error: /ddd
+"GET /ddd HTTP/1.1" 500 145
+"GET /ddd HTTP/1.1" 200 398
+"GET /static/images/404.jpeg HTTP/1.1" 200 398
+"GET /accounts/logout/ HTTP/1.1" 200 1931
+"GET /home HTTP/1.1" 200 398
+"GET /static/images/404.jpeg HTTP/1.1" 200 398
+"GET / HTTP/1.1" 200 1614
+Internal Server Error: /dd
+"GET /dd HTTP/1.1" 500 145
+Internal Server Error: /dd
+"GET /dd HTTP/1.1" 500 145
+Internal Server Error: /dd
+"GET /dd HTTP/1.1" 500 145
+Internal Server Error: /dd
+"GET /dd HTTP/1.1" 500 145
+Internal Server Error: /dd
+"GET /dd HTTP/1.1" 500 145
+"GET /accounts HTTP/1.1" 200 398
+"GET /static/images/404.jpeg HTTP/1.1" 200 398
+"GET /accounts HTTP/1.1" 200 398
+"GET /static/images/404.jpeg HTTP/1.1" 200 398
+"GET /accounts HTTP/1.1" 200 398
+"GET /static/images/404.jpeg HTTP/1.1" 200 398
+"GET /accounts HTTP/1.1" 200 387
+"GET /static/images/404.jpeg HTTP/1.1" 200 387
+"GET /menu/ HTTP/1.1" 200 2406
+"GET /accounts/logout/ HTTP/1.1" 200 1931
+"POST /accounts/logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2334
+"GET /eqewqeqw HTTP/1.1" 200 387
+"GET /static/images/404.jpeg HTTP/1.1" 200 387
+"GET /menu/ HTTP/1.1" 302 0
+"GET /accounts/login/?next=/menu/ HTTP/1.1" 200 3001
+"GET /accounts/login/?next=/menu/oiwqueioqwuepiqwueoiqwepoiuqwpoieupoqiwe HTTP/1.1" 200 3001
+"GET /accounts/login/?next=../../../../../ HTTP/1.1" 200 3001
+"POST /accounts/login/?next=../../../../../ HTTP/1.1" 200 3202
+"GET /ac HTTP/1.1" 200 2116
+"GET /static/images/404.jpeg HTTP/1.1" 200 2116
+"GET /ac HTTP/1.1" 200 2116
+"GET /static/images/404.jpeg HTTP/1.1" 200 2116
+"GET /ac HTTP/1.1" 200 2116
+"GET /static/images/404.jpeg HTTP/1.1" 200 2116
+"GET /ac HTTP/1.1" 200 2116
+"GET /static/images/404.jpeg HTTP/1.1" 200 2116
+"GET /ac HTTP/1.1" 200 2116
+"GET /static/images/404.jpeg HTTP/1.1" 200 2116
+"GET /ac HTTP/1.1" 200 2116
+"GET /static/images/404.jpeg HTTP/1.1" 200 2116
+"GET /ac HTTP/1.1" 200 2116
+"GET /static/images/404.jpeg HTTP/1.1" 200 2116
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1756
+"GET /favicon.ico HTTP/1.1" 200 2116
+"GET /accounts/login/ HTTP/1.1" 200 3001
+"GET /favicon.ico HTTP/1.1" 200 2116
+"POST /accounts/login/ HTTP/1.1" 302 0
+"GET /menu HTTP/1.1" 301 0
+"GET /menu/ HTTP/1.1" 200 2763
+"GET /favicon.ico HTTP/1.1" 200 1974
+"GET /menu/asAS HTTP/1.1" 200 1974
+"GET /static/images/404.jpeg HTTP/1.1" 200 1974
+"GET /favicon.ico HTTP/1.1" 200 1974
+"GET /menu/asAS HTTP/1.1" 200 1978
+"GET /static/images/add128px.png HTTP/1.1" 200 1978
+"GET /favicon.ico HTTP/1.1" 200 1978
+Internal Server Error: /menu/asAS
+"GET /menu/asAS HTTP/1.1" 500 145
+Internal Server Error: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 500 145
+Internal Server Error: /menu/asAS
+"GET /menu/asAS HTTP/1.1" 500 145
+Internal Server Error: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 500 145
+Internal Server Error: /menu/asAS
+"GET /menu/asAS HTTP/1.1" 500 145
+Internal Server Error: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 500 145
+Internal Server Error: /menu/asAS
+"GET /menu/asAS HTTP/1.1" 500 145
+Internal Server Error: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 500 145
+Internal Server Error: /menu/asAS
+"GET /menu/asAS HTTP/1.1" 500 145
+Internal Server Error: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 500 145
+"GET /menu/ HTTP/1.1" 200 2406
+Internal Server Error: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 500 145
+"GET /accounts/login/ HTTP/1.1" 302 0
+Internal Server Error: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 500 145
+"GET /me HTTP/1.1" 200 1974
+"GET /static/images/404.jpeg HTTP/1.1" 200 1974
+"GET /favicon.ico HTTP/1.1" 200 1974
+"GET /me HTTP/1.1" 200 1974
+"GET /static/images/404.jpeg HTTP/1.1" 200 1974
+"GET /favicon.ico HTTP/1.1" 200 1974
+"GET /me HTTP/1.1" 200 1974
+"GET /static/images/404.jpeg HTTP/1.1" 200 1974
+"GET /favicon.ico HTTP/1.1" 200 1974
+"GET /me HTTP/1.1" 200 1974
+"GET /static/images/404.jpeg HTTP/1.1" 200 1974
+"GET /favicon.ico HTTP/1.1" 200 1974
+"GET /me HTTP/1.1" 200 1974
+"GET /static/images/404.jpeg HTTP/1.1" 200 1974
+"GET /favicon.ico HTTP/1.1" 200 1974
+"GET /me HTTP/1.1" 200 388
+"GET /favicon.ico HTTP/1.1" 200 388
+"GET /me HTTP/1.1" 200 388
+"GET /favicon.ico HTTP/1.1" 200 388
+"GET /me HTTP/1.1" 200 402
+"GET /static/images/404.jpeg HTTP/1.1" 200 402
+"GET /favicon.ico HTTP/1.1" 200 402
+"GET /me HTTP/1.1" 200 402
+"GET /static/images/404.jpeg HTTP/1.1" 200 402
+"GET /favicon.ico HTTP/1.1" 200 402
+"GET /me HTTP/1.1" 200 130
+"GET /static/images/404.jpeg HTTP/1.1" 200 130
+"GET /favicon.ico HTTP/1.1" 200 130
+"GET /me HTTP/1.1" 200 130
+"GET /static/images/404.jpeg HTTP/1.1" 200 130
+"GET /favicon.ico HTTP/1.1" 200 130
+"GET /me HTTP/1.1" 200 130
+"GET /static/images/404.jpeg HTTP/1.1" 200 130
+"GET /favicon.ico HTTP/1.1" 200 130
+"GET /me HTTP/1.1" 200 142
+"GET /static/images/404.jpeg HTTP/1.1" 200 142
+"GET /favicon.ico HTTP/1.1" 200 142
+"GET /me HTTP/1.1" 200 79
+"GET /static/images/404.jpeg HTTP/1.1" 200 79
+"GET /favicon.ico HTTP/1.1" 200 79
+"GET /me HTTP/1.1" 200 79
+"GET /static/images/404.jpeg HTTP/1.1" 200 79
+"GET /favicon.ico HTTP/1.1" 200 79
+"GET /me HTTP/1.1" 200 79
+"GET /static/images/404.jpeg HTTP/1.1" 200 79
+"GET /favicon.ico HTTP/1.1" 200 79
+"GET /me HTTP/1.1" 200 79
+"GET /static/images/404.jpeg HTTP/1.1" 200 79
+"GET /favicon.ico HTTP/1.1" 200 79
+"GET /me HTTP/1.1" 200 79
+"GET /static/images/404.jpeg HTTP/1.1" 200 79
+"GET /favicon.ico HTTP/1.1" 200 79
+"GET /me HTTP/1.1" 200 79
+"GET /static/images/404.jpeg HTTP/1.1" 200 79
+"GET /favicon.ico HTTP/1.1" 200 79
+"GET /me HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET /me HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET /me HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+Watching for file changes with StatReloader
+"GET /me HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /me
+"GET /me HTTP/1.1" 500 145
+Internal Server Error: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 500 145
+Internal Server Error: /me
+"GET /me HTTP/1.1" 500 145
+Internal Server Error: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 500 145
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /me HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /me HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET /me HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET /me HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET /me HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET / HTTP/1.1" 200 1614
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET /reports/graphreport HTTP/1.1" 200 9726
+"GET /favicon.ico HTTP/1.1" 200 77
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9726
+"GET /favicon.ico HTTP/1.1" 200 77
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /reports/graphreport HTTP/1.1" 200 9726
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET /re HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /favicon.ico HTTP/1.1" 200 77
+"GET /reportsas HTTP/1.1" 200 77
+"GET /static/images/404.jpeg HTTP/1.1" 200 77
+"GET /favicon.ico HTTP/1.1" 200 77
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /reportsas
+"GET /reportsas HTTP/1.1" 404 3417
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3423
+/mnt/datas/ProjetosDesenvolvimento/scm_cog/scm_cog/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/graphreport HTTP/1.1" 200 9726
+Not Found: /rep
+"GET /rep HTTP/1.1" 404 3399
+"GET /menu/ HTTP/1.1" 200 2406
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/graphreport HTTP/1.1" 200 9726
+"GET /reports/finalizework HTTP/1.1" 302 0
+"GET /reports/ HTTP/1.1" 302 0
+"GET /accounts/login/?next=/reports/ HTTP/1.1" 200 3764
+"POST /accounts/login/?next=/reports/ HTTP/1.1" 302 0
+"GET /reports/ HTTP/1.1" 200 10092
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /static/css/addevents.css HTTP/1.1" 304 0
+"GET /reports/ HTTP/1.1" 200 9819
+"GET /reports/save_tmp?csrfmiddlewaretoken=dQNsXCjQDwY8oiyTyr9NYpT4R4qFY9CCUQnevshP0yY55uMmDQTxNm6qRvGie5WV&pch_name=NF&ug=UG02&cause=DPG&data_stop=2022-07-19+02%3A11&data_start=2022-07-19+04%3A00&justfi=DPG+%28Controle+de+n%C3%ADvel%29&complement=DPG+%28Controle+de+n%C3%ADvel%29 HTTP/1.1" 302 0
+"GET /reports/ HTTP/1.1" 200 11424
+"GET /static/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+"GET /static/js/remove-table-line.js HTTP/1.1" 304 0
+"GET /static/js/turn_end.js HTTP/1.1" 304 0
+"GET /static/css/jquery-ui.css HTTP/1.1" 304 0
+"GET /static/js/jquery-3.5.1.slim.min.js HTTP/1.1" 304 0
+"GET /static/js/bootstrap-datetimepicker.min.js HTTP/1.1" 304 0
+"GET /static/images/edit16px.png HTTP/1.1" 304 0
+"GET /static/js/moment.min.js HTTP/1.1" 304 0
+"GET /static/images/reports32.png HTTP/1.1" 304 0
+"GET /static/images/add64px.png HTTP/1.1" 304 0
+"GET /static/css/bootstrap-datetimepicker.min.css HTTP/1.1" 304 0
+"GET /static/images/del16px.png HTTP/1.1" 304 0
+"GET /static/css/images/ui-icons_444444_256x240.png HTTP/1.1" 404 1873
